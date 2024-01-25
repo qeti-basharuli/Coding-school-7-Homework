@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('/Fonts/poppins/Poppins-Light.eot');
+    src: url('/Fonts/poppins/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('/Fonts/poppins/Poppins-Light.woff2') format('woff2'),
+        url('/Fonts/poppins/Poppins-Light.woff') format('woff'),
+        url('/Fonts/poppins/Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/Fonts/inter/Inter-Thin.eot');
+    src: url('/Fonts/interInter-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/Fonts/interInter-Thin.woff2') format('woff2'),
+        url('/Fonts/interInter-Thin.woff') format('woff'),
+        url('/Fonts/interInter-Thin.svg#Inter-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
